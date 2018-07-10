@@ -1,4 +1,4 @@
-set(package json)
+set(package nlohmann_json)
 set(version 3.1.2)
 
 byd__package__info(${package}
